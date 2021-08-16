@@ -80,7 +80,7 @@ class ToDoInput extends Component{
                 <ToDoList  todo = {this.state.todos} deleteTodo = {this.deleteTodo} editToDo ={this.editToDo}></ToDoList>
                 </Form.Group>
             </Form>
-            {/* {} */}
+            
             </div>  
         
             )
